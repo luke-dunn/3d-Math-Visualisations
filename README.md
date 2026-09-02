@@ -8,3 +8,6 @@ The animate script creates an mp4 video composed of png frames then adds a synth
 
 Example shown is `hyperboloid.py` which can be run with the other files present in the current directory to see the concept.
 
+Requires `ffmpeg` too. 
+
+The result is simple and fairly lo-fi, perhaps suitable for playing with and extending as a beginner project. I stayed low level using hard coded Python, rather than a more high level approach such as Mathematica which could probably render all these as one-liners! But the point was to learn the mechanics myself, not just to abstract most of the code away and let someone else do the hard bits.
