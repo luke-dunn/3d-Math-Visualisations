@@ -4,7 +4,7 @@ I have tried to make a kind of pipeline where different geometric shapes, from r
 
 The animate script creates an mp4 video composed of png frames then adds a synth soundtrack that depends algorithmically on each frame's pixel structure.
 
-'transform3d.py` provides a rotating viewpoint to allow the structure of these wonderful 3d shapes to be seen more clearly.
+`transform3d.py` provides a rotating viewpoint to allow the structure of these wonderful 3d shapes to be seen more clearly.
 
 Example shown is `hyperboloid.py` which can be run with the other files present in the current directory to see the concept.
 
