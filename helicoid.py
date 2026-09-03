@@ -1,7 +1,7 @@
 from animate import animate, add_sound
 from shapes import generate_helicoid
 
-# segments = generate_helicoid(parameters_here)
+segments = generate_helicoid()
 
 
 video = animate(
